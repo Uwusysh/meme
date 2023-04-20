@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: azure;
+    font-family: 'Roboto Mono', monospace;
+}
+img{
+    border-radius: 90%;
+}
